@@ -1,0 +1,34 @@
+🎙️ MeetWise - AI Meeting Summarizer
+live link -https://meetwise-l9a3frfqhbstrbab3hujwq.streamlit.app/
+
+MeetWise is a powerful AI-powered app that transcribes, summarizes, and analyzes meeting audio files to extract:
+
+📄 Detailed summaries
+🔑 Key points
+✅ Action items
+🧠 Custom insights (via prompts)
+Built using OpenAI Whisper, LLMs, and Streamlit, MeetWise simplifies your meeting follow-ups and helps you stay productive.
+
+🚀 Features
+🎧 Upload audio files (English, Hindi supported)
+✍️ Accurate transcription using Whisper or WhisperX
+💡 Prompt-based summarization (select from built-in prompt templates)
+🧠 LLM-powered insights: summary, key points, action items, etc.
+✅ Clean chat-like UI with avatars and typing indicators
+🧪 (Experimental) Speaker Diarization support (WIP)
+🧑‍💻 Tech Stack
+🐍 Python 3.11
+⚡ Whisper & WhisperX
+🤖 LLMs via Groq API
+🖥️ Streamlit (for UI)
+📦 uv package manager (faster than pip)
+🛠️ Getting Started
+1. Clone the repository
+git clone https://github.com/yourusername/MeetWise.git
+cd MeetWise
+
+---
+
+## 🙋‍♂️ Author
+@Rahul Dhyani
+Built with ❤️ as part of an AI/LLM project portfolio.
